@@ -37,7 +37,7 @@ s.n. dasgupta
 #Comparing Files
 cmp file1 file2
 ##OUTPUT
- 
+ ![cmpop](./op-img/cmp-op.png)
 comm file1 file2
  ##OUTPUT
 
