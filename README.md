@@ -36,13 +36,13 @@ c.k. shukla
 lalit chowdury
 s.n. dasgupta
  ```
-#Comparing Files
+# Comparing Files
 cmp file1 file2
 
-##OUTPUT
+## OUTPUT
  ![cmpop](./op-img/cmp-op.png)
 comm file1 file2
- ##OUTPUT
+ ## OUTPUT
 
  
 diff file1 file2
