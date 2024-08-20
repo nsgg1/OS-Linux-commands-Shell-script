@@ -21,19 +21,21 @@ Execute the following commands
 Testing the commands for the desired output. 
 
 # COMMANDS:
+```
 cat > file1
 chanchal singhvi
 c.k. shukla
 s.n. dasgupta
 sumit chakrobarty
- 
+```
+```
 cat > file2
 anil aggarwal
 barun sengupta
 c.k. shukla
 lalit chowdury
 s.n. dasgupta
- 
+ ```
 #Comparing Files
 cmp file1 file2
 ##OUTPUT
